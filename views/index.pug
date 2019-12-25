@@ -1,0 +1,18 @@
+extends layout
+
+block content
+
+  if registrations.length
+    table.listing-table.table-dark.table-striped
+      tr
+        th first name
+        th last name
+        th Email
+      each registration in registrations
+        tr
+          td= registration.firstname
+          td= registration.lastname
+          td= registration.email
+          
+  else
+    p No registrations
