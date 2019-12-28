@@ -1,7 +1,7 @@
 # nodejs-registration-form
 A simple registration form with basic validation
 
-<img width="641" alt="Screenshot 2019-12-28 at 4 13 29 AM" src="https://user-images.githubusercontent.com/39309699/71538308-1e7b0c80-2929-11ea-901c-63b3e4850a0b.png">
+<img width="397" alt="Screenshot 2019-12-28 at 4 26 25 AM" src="https://user-images.githubusercontent.com/39309699/71538392-559ded80-292a-11ea-901a-60d763ec2ed3.png">
 
 
 
